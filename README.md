@@ -1,1 +1,1 @@
-# logstash
+# logstash configuration example
